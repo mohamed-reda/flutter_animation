@@ -6,6 +6,7 @@ class ProviderOfHome extends ChangeNotifier {
   bool _boolTheme=false;
 //  String lang;
 //
+//
   ProviderOfHome();
 
   getBoolTheme() => _boolTheme;
